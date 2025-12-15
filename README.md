@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science graduate with a strong interest in software development and problem solving. I have hands-on experience with C/C++, JavaScript, Node.js, and databases, and I enjoy learning new technologies. I currently learning React js and advanaced DSA .
+I am a final year Computer Science student with a strong interest in software development and problem solving. I have hands-on experience with C/C++, JavaScript, Node.js, and databases, and I enjoy learning new technologies. I currently learning React js and advanaced DSA .
 
 
 ## 🌐 Socials:
